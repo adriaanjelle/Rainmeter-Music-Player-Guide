@@ -56,7 +56,7 @@ spicetify config inject_css 0 replace_colors 0
 spicetify backup apply
 ```
 
-If you're having any issues, it's probably best to ask for help on the [Rainmeter](http://discord.gg/rainmeter) or [Spicetify](https://discord.com/invite/VnevqPp2Rr) Discord servers. Watch out though, it's a troon-infested shithole and generally speaking an extreme left-wing echo chamber with no tolerance for different opinions. I got banned for saying men aren't women! The members are also mean, pornsick males who call themselves lesbians.
+If you're having any issues, it's probably best to ask for help on the [Rainmeter](http://discord.gg/rainmeter) or [Spicetify](https://discord.com/invite/VnevqPp2Rr) Discord servers.
 
 **Step 3**: Set the Rainmeter skin to use Spotify, most commonly referred to as WebNowPlaying (it uses the same plugin).
 
